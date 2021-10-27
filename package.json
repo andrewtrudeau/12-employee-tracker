@@ -1,0 +1,25 @@
+{
+  "name": "12-employee-tracker",
+  "version": "1.0.0",
+  "description": "Console application to track emplyees",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewtrudeau/12-employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewtrudeau/12-employee-tracker/issues"
+  },
+  "homepage": "https://github.com/andrewtrudeau/12-employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.2",
+    "sql": "^0.78.0"
+  }
+}
